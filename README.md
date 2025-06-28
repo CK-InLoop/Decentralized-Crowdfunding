@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Decentralized Crowdfunding DApp
 
 A full-stack decentralized crowdfunding application built with Solidity, Hardhat, React.js, Tailwind CSS, and Ethers.js.
@@ -60,3 +61,6 @@ Create a `.env` file in the root directory with your private key and RPC URLs. S
 
 ## License
 MIT
+=======
+# Decentralized-Crowdfunding
+>>>>>>> ca80b3dc7d98279b6e58d664a80b869d1c59682b

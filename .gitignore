@@ -1,0 +1,13 @@
+# Root
+.env
+node_modules/
+dist/
+build/
+.DS_Store
+client/node_modules/
+client/.env
+client/.env.local
+client/.next/
+client/.DS_Store
+client/build/
+client/dist/
